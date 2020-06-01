@@ -7,15 +7,15 @@ close all; clear; clc;
 % E. Anderson, Timothee L. Porpoint, R. Joeseph 
 % Cassidy,'ATMOSPHERIC and SPACE FLIGHT DYNAMICS'
 % by Ashish Tewari, ISBN-10: 0-8176-4437-7,
-% Birka¨user Boston and NASA's U.S. 1979 
+% BirkaÂ¨user Boston and NASA's U.S. 1979 
 % Standard Atmosphere formulas,
 % http://www.braeunig.us/space/atmmodel.htm.
 %
 % This script is only intended for civilian
 % purposes.
 %
-% Code by: Preetham Akula (preetham.akula@rmit.edu.au) & Reza Aliakbari
-% (reza.aliakbari@rmit.edu.au)
+% Code by: Preetham Akula (preetham.akula@rmit.edu.au) & Reza Aliakbri
+% (reza.aliakbri@rmit.edu.au)
 %% Standard Atmosphere
 %for T_0 = 288:10:318
 T_0 = 288.15;  % [K]
